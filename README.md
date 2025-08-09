@@ -1,0 +1,1 @@
+This is a program to access Spotify and go to a specified playlist, akin to opening a book to a bookmarked page. Once I've logged into Spotify, the page opens to the playlist immediately. If I haven't logged into spotify before, it will prompt me for my username to login. However, this version doesn't play the music.
